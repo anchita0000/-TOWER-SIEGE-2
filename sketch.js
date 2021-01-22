@@ -83,8 +83,8 @@ block16.display();
 
 
 fill(79,41,99);
-textSize(32);
-text("DRAG THE POLYGON AND RELEASE IT TO MAKE THE BLOCKS FALL",70,50);
+textSize(25);
+text("DRAG THE POLYGON AND RELEASE IT TO MAKE THE BLOCKS FALL !",50,50);
 
 fill("yellow");
 ellipse(polygon.position.x,polygon.position.y,20);
